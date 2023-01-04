@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Lab3:jar">
+    <output-path>$PROJECT_DIR$/../Laba34/out/artifacts/Lab3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Ilya.jar">
+        <element id="module-output" name="Ilya" />
+      </element>
+    </root>
+  </artifact>
+</component>
